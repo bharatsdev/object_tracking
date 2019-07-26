@@ -1,7 +1,8 @@
+[![Build Status](https://travis-ci.com/everythingisdata/ObjectTracking.svg?branch=master)](https://travis-ci.com/everythingisdata/ObjectTracking)
 # Object Tracking 
 ---
-Object  tracking is Deep learning problem. In this we need to track the moving object in videos feeds. 
-Tracking has two parte
+Object tracking is Deep learning problem. In this we need to track the moving object in videos feeds. 
+Tracking has two parts
  - Detect Object 
  - Track Object
  
@@ -10,5 +11,6 @@ Tracking has two parte
 
 Pre-requisite.
  - Python
- - Opencv
- - Pre-train model like Caffe or tansorflow
+ - OpenCV
+ - Pre-train model like Caffe or TensorFlow
+
