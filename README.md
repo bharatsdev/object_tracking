@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/everythingisdata/ObjectTracking.svg?branch=master)](https://travis-ci.com/everythingisdata/ObjectTracking)
-# Object Detection
+# Object Tracking
 ---
 Object Detection is Deep learning problem. It has three sections (Object Recognition, Object localization by bound box, object identification). Initially, we will detect an localize the object. 
  - Object Recognition
